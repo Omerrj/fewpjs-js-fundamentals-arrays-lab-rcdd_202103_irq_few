@@ -1,3 +1,4 @@
 // Write your solution here!
 
-pets.push('Odie');
+const append,prepend,removeLast,removeFirst;
+append=prepend=removeFirst=removeLast=
